@@ -59,7 +59,7 @@ This indicates potential regional pricing or operational challenges.
 
 ### 5️⃣ Time-Based Trends
 - **Q4 (Last Trimester)** consistently records the highest sales across all categories.
-- **October** shows a noticeable dip compared to neighboring months.
+- **October** shows a noticeable dip compared to the trend of the neighboring months.
 - **2015** experienced a sales dip across most product categories.
 
 ---
